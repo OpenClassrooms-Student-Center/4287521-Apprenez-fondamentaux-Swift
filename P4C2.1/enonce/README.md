@@ -1,3 +1,3 @@
 # Instructions
 
-BAllez, à vous de jouer ! Transformez le programme pour utiliser un switch.
+Allez, à vous de jouer ! Transformez le programme pour utiliser un switch.
