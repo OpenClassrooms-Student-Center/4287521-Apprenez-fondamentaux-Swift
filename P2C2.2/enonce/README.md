@@ -1,6 +1,6 @@
 # Instructions
 
-Avec tout çà, on va pouvoir compléter notre modèle de ferme ! Alors à vous de jouer. Transformer le contenu de notre boucle `for` avec ceci :
+Avec tout ça, on va pouvoir compléter notre modèle de ferme ! Alors à vous de jouer. Transformez le contenu de notre boucle `for` avec ceci :
 
 ```
 SI nous sommes le 1er :
